@@ -22,9 +22,11 @@ def callMethod(func, *args, **kwargs):
         return func(*args, **kwargs)
     return _return_func
 
-fx.bind('shift+F15', callMethod(fx.actions["bvfx_ShapeFuse"].execute,"build"))
-fx.bind('F15', callMethod(fx.actions["bvfx_ShapeFuse"].execute,"collect"))
+fx.bind('shift+F12', callMethod(fx.actions["bvfx_ShapeFuse"].execute,"build"))
+fx.bind('F12', callMethod(fx.actions["bvfx_ShapeFuse"].execute,"collect"))
 
 ```
+3. Colect shape points one by one, when point colection is done, use the Build shortcut.
+ 
 #### Licensing ####
 This script is made available under a BSD Style license that is included in the package.
