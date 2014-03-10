@@ -2,7 +2,8 @@ Shape Fuse
 ======================
 This python script for Silhouette will create a curve based on other curves animated points
 
-[Video with demonstration](http://www.youtube.com/watch?v=TwdWFFUIQBM&feature=player_embedded) 
+[Video with demonstration](http://www.youtube.com/watch?v=TwdWFFUIQBM&feature=player_embedded)
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TwdWFFUIQBM" target="_blank"><img src="http://img.youtube.com/vi/TwdWFFUIQBM/mqdefault.jpg"
 alt="Click to Watch the video" width="240" height="135" border="10" /></a>
 
