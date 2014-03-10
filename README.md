@@ -15,6 +15,7 @@ Silhouette 5.1.2 and up (not tested on previous versions)
 
 #### KNOW LIMITATIONS #####
  Creates only B-spline shapes for now
+ Undo is not perfect
 
 #### USAGE ####
 1. Place both .py files inside your actions folder (osx:/Applications/SilhouetteFX/Silhouette5.1.2/Silhouette.app/Contents/Resources/scripts/)
