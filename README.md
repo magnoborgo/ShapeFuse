@@ -2,6 +2,10 @@ Shape Fuse
 ======================
 This python script for Silhouette will create a curve based on other curves animated points
 
+[Video with demonstration](http://www.youtube.com/watch?v=TwdWFFUIQBM&feature=player_embedded) 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TwdWFFUIQBM" target="_blank"><img src="http://img.youtube.com/vi/TwdWFFUIQBM/mqdefault.jpg"
+alt="Click to Watch the video" width="240" height="135" border="10" /></a>
+
 If you like it, use it frequently, or want to support further development please consider a small donation to the author.   
 <a href='http://www.pledgie.com/campaigns/21123'><img alt='Click here to lend your support to: VFX tools coding project and make a donation at www.pledgie.com !' src='http://www.pledgie.com/campaigns/21123.png?skin_name=chrome' border='0' /></a>
 
@@ -13,7 +17,7 @@ Silhouette 5.1.2 and up (not tested on previous versions)
 
 #### USAGE ####
 1. Place both .py files inside your actions folder (osx:/Applications/SilhouetteFX/Silhouette5.1.2/Silhouette.app/Contents/Resources/scripts/)
-2. This script should be used with keyboard shortcuts, create/add then in your Silhouette sfxuser.py:
+2. This script should be used with keyboard shortcuts, create/add them in your Silhouette sfxuser.py:
 ```
 import fx
 def callMethod(func, *args, **kwargs):
